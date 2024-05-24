@@ -20,8 +20,8 @@
     "windows": [
       {
         "title": "tauri-learn",
-        "minWidth": 1920,
-        "minHeight": 1080,
+        "minWidth": 1024,
+        "minHeight": 968,
         "center": true,
         "resizable": true,
         "maximizable": true,
@@ -29,11 +29,12 @@
         "visible": false
       },
       {
-        "minWidth": 1920,
-        "minHeight": 1080,
+        "minWidth": 1024,
+        "minHeight": 968,
         "decorations": false,
         "url": "splashscreen.html",
-        "label": "splashscreen"
+        "label": "splashscreen",
+        "center": true
       }
     ],
     "security": {
